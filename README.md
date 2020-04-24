@@ -17,4 +17,5 @@ https://github.com/tzutalin/dlib-android-app
 https://github.com/tensorflow/examples/blob/master/tensorflow_examples/lite/model_maker/demo/image_classification.ipynb
 ## Local
 https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android
+https://github.com/tensorflow/examples/tree/master/lite/examples
 
