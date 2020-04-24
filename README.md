@@ -11,6 +11,7 @@ https://github.com/opencv/opencv/tree/master/data/haarcascades
 ## Android
 https://github.com/tzutalin/dlib-android-app
 
+
 ### Deep learning Tensorflow Lite API with example on Android, Raspberry Pi
 ## Google colab
 https://github.com/tensorflow/examples/blob/master/tensorflow_examples/lite/model_maker/demo/image_classification.ipynb
