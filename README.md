@@ -19,3 +19,9 @@ https://github.com/tensorflow/examples/blob/master/tensorflow_examples/lite/mode
 https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android
 https://github.com/tensorflow/examples/tree/master/lite/examples
 
+# Speech command / Simple speech recognition
+## Python training model
+https://github.com/tensorflow/docs/blob/master/site/en/r1/tutorials/sequences/audio_recognition.md
+## Android (for above TF model)
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/android/src/org/tensorflow/demo/SpeechActivity.java
